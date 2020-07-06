@@ -43,3 +43,15 @@
 .categories img {
   width: 100px;
 }
+
+/* shoes */
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgrey;
+}
+#subscribe {
+  height: 300px;
+}
+#subscribe h6 {
+  color: gray;
+}
